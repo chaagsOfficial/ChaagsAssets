@@ -1,3 +1,0 @@
-hello saleh
-new line in test file
-hello file

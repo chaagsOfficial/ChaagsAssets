@@ -272,3 +272,6 @@
 a {
     cursor: pointer !important;
 }
+[wghtk-icon-type] {
+    font-style: inherit!important;
+}

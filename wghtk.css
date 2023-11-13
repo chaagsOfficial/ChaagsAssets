@@ -275,3 +275,6 @@ a {
 [wghtk-icon-type] {
     font-style: inherit!important;
 }
+.wghtk-slider {
+    height: fit-content;
+}

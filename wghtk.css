@@ -278,3 +278,9 @@ a {
 .wghtk-slider {
     height: fit-content;
 }
+.swiper-button-prev,.swiper-button-next {
+    color:var(--wghtk-color1)!important;
+}
+.swiper-pagination-bullet-active {
+    background:var(--wghtk-color1)!important;
+}
